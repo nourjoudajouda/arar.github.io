@@ -1,9 +1,9 @@
 @media (max-width:767px) {
 
     /* smartphones and tablets -- min = 0 */
-   .form-box{
-        margin: 0;
-        border-radius : 15px;
+   .form-box {
+        margin: 10px;
+        border-radius: 15px;
     }
 }
 
