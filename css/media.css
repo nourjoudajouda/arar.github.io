@@ -1,25 +1,9 @@
 @media (max-width:767px) {
 
     /* smartphones and tablets -- min = 0 */
-   .search-hotel{
-        margin: 5px;
-        width: 98%;
-    }
-
-    .btns-popular   button{
-        margin-top: 10px;
-    }
-    .popular-hotels .card {
-        min-height: 500px;
-    }
-    .breadcrumb {
-        font-size: 16px;
-        font-weight: bold;
-    }
-    #section1 .accordion-button {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
+   .form-box{
+        margin: 0;
+        border-radius : 15px;
     }
 }
 
